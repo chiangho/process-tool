@@ -1,4 +1,4 @@
-package com.wimi.tool;
+package com.haoframe.tool;
 
 import java.io.BufferedReader;
 import java.io.IOException;
